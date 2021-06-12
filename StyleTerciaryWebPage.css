@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ColunaPagina {
+    display: block;
+    margin-left: 450px;
+    margin-top: 150px;
+}
+.Email {
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 22px;
+}
+.Nome{
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 21px;
+}
+.Empresa {
+    display: flex;
+    margin-bottom: 21px;
+}
+.Telefone {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.Celular {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+.Modal {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 21px;
+}
+.Cep {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 35px;
+    margin-top: -5px;
+}
+.Estado {
+    display: flex;
+    margin-bottom: -5px;
+    margin-left: 320px;
+    margin-top: -35px;
+}
+.Cidade {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.Bairro {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 22px;
+}
+.Rua {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: -36px;
+}
+.Numero {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 0;
+}
+.Logo {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 5px;
+}
+.Marcaçao {
+    display: flex;
+    margin-left: 180px;
+    margin-top: 100px;
+}
+.ConteudoPagina {
+    display: block;
+    margin-left: 600px;
+    margin-top: -500px;
+}
+.CaixaEmail {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 68px;
+}
+.CaixaNome {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: -2px;
+}
+.CaixaEmpresa {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: -3px;
+}
+.CaixaTelefone {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: -3px;
+}
+.CaixaCelular {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: -5px;
+}
+.CaixaModal {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: -5px;
+}
+.CaixaCep {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: -9px;
+}
+.CaixaEstado {
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 260px;
+    margin-top: -40px;
+}
+.CaixaCidade {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
+.CaixaBairro {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: -4px;
+}
+.CaixaRua {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: -4px;
+}
+.CaixaNumero {
+    display: flex;
+    margin-bottom: -30px;
+    margin-top: -5px;
+}
+.CaixaLogo {
+    display: flex;
+    margin-top: 150px;
+}
+.ButtonAtualizar {
+    display: flex;
+    margin-top: 80px;
+    margin-left: -5px;
+}
+.ButtonDelete {
+    display: flex;
+    margin-left: 200px;
+    margin-top: -22px;
+}

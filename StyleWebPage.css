@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Transportadora {
+    text-align: left;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.buttoncadastro {
+   border: rgba(36, 10, 10, 0.774);
+   padding: 25px;
+   background-color: darkgreen;
+   color: white;
+   align-items: initial;
+   box-shadow: 10px 5px 5px black;
+   width: auto;
+   height: auto;
+}
+.ParagrafoPrimeiro {
+    display: inline-block;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 20px 150px;
+    border-bottom: 1px solid black;
+    align-items: center;
+}
+.TransportadorasFiltro {
+    margin-left: 10px;
+}
+.Nome {
+    margin-left: 10px;
+}
+.LocalizaçaoUf {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.LocalizaçaoMunicipios {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.Transporte {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.Estados {
+    margin-top: 5px;
+}
+.Municipios {
+    margin-top: 5px;
+}
+.ModalidadesTransporte {
+    margin-top: 5px;
+}
+.ImagemPrimaria {
+    display: flex;
+    padding: 0px 5px 150px 400px;
+    margin-block-start: -450px;
+}
+.IconePrimario {
+    display: flex;
+    margin-left: 1040px;
+    margin-top: -60px;
+}
+.NumeroPrimarioIcone {
+    display: flex;
+    margin-left: 1125px;
+    margin-top: -40px;
+}
+.LinkPrimario{
+    display: flex;
+    margin-left: 630px;
+    margin-top: -250px;
+}
+.CnpjPontoMais {
+    display: flex;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.NumeroPontoMais {
+    display: flex;
+    margin-left: 850px;
+    margin-top: -47px;
+}
+.EmailPontoMais {
+    display: flex;
+    margin-left: 840px;
+    margin-top: 10px;
+}
+.ImagemSecundaria {
+    display: flex;
+    margin-left: 400px;
+    margin-top: 80px;
+}
+.IconeSecundario {
+    display: flex;
+    margin-left: 1040px;
+    margin-top: -60px;
+}
+.NumeroSecundarioIcone {
+    display: flex;
+    margin-left: 1125px;
+    margin-top: -40px;
+}
+.LinkSecundario {
+    display: flex;
+    margin-left: 630px;
+    margin-top: -100px;
+}
+.CnpjMegaStore {
+    display: flex;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.NumeroMegaStore {
+    display: flex;
+    margin-left: 850px;
+    margin-top: -48px;
+}
+.EmailMegaStore {
+    display: flex;
+    margin-left: 840px;
+    margin-top: 10px;
+}
+.ImagemTerciaria {
+    display: flex;
+    margin-left: 400px;
+    margin-top: 80px;
+}
+.IconeTerciario {
+    display: flex;
+    margin-left: 1040px;
+    margin-top: -60px;
+}
+.NumeroTerciarioIcone {
+    display: flex;
+    margin-left: 1125px;
+    margin-top: -40px;
+}
+.LinkTerciario {
+    display: flex;
+    margin-left: 630px;
+    margin-top: -100px;
+}
+.CnpjStoreHappy {
+    display: flex;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.NumeroStoreHappy {
+    display: flex;
+    margin-left: 850px;
+    margin-top: -48px;
+}
+.EmailStoreHappy {
+    display: flex;
+    margin-left: 840px;
+    margin-top: 10px;
+}
+.ImagemQuaternaria {
+    display: flex;
+    margin-left: 400px;
+    margin-top: 80px;
+}
+.IconeQuaternario {
+    display: flex;
+    margin-left: 1040px;
+    margin-top: -60px;
+}
+.NumeroQuaternarioIcone {
+    display: flex;
+    margin-left: 1125px;
+    margin-top: -40px;
+}
+.LinkQuaternario {
+    display: flex;
+    margin-left: 630px;
+    margin-top: -100px;
+}
+.CnpjTruckMoving {
+    display: flex;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+.NumeroTruckMoving {
+    display: flex;
+    margin-left: 850px;
+    margin-top: -48px;
+}
+.EmailTruckMoving {
+    display: flex;
+    margin-left: 840px;
+    margin-top: 10px;
+}
